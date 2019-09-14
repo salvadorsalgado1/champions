@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/champions/static/css/main.7cb00f46.chunk.css",
-    "main.js": "/champions/static/js/main.fe4dfa6c.chunk.js",
-    "main.js.map": "/champions/static/js/main.fe4dfa6c.chunk.js.map",
+    "main.css": "/champions/static/css/main.d8edfb56.chunk.css",
+    "main.js": "/champions/static/js/main.1d368c36.chunk.js",
+    "main.js.map": "/champions/static/js/main.1d368c36.chunk.js.map",
     "runtime~main.js": "/champions/static/js/runtime~main.d61ed24e.js",
     "runtime~main.js.map": "/champions/static/js/runtime~main.d61ed24e.js.map",
-    "static/js/2.23f1abcd.chunk.js": "/champions/static/js/2.23f1abcd.chunk.js",
-    "static/js/2.23f1abcd.chunk.js.map": "/champions/static/js/2.23f1abcd.chunk.js.map",
+    "static/js/2.022b22f8.chunk.js": "/champions/static/js/2.022b22f8.chunk.js",
+    "static/js/2.022b22f8.chunk.js.map": "/champions/static/js/2.022b22f8.chunk.js.map",
     "index.html": "/champions/index.html",
-    "precache-manifest.01a3214c2e7b7baa3b4dcd775b3722c8.js": "/champions/precache-manifest.01a3214c2e7b7baa3b4dcd775b3722c8.js",
+    "precache-manifest.bb2a954fdc594c496d4bfa52c6b7524e.js": "/champions/precache-manifest.bb2a954fdc594c496d4bfa52c6b7524e.js",
     "service-worker.js": "/champions/service-worker.js",
-    "static/css/main.7cb00f46.chunk.css.map": "/champions/static/css/main.7cb00f46.chunk.css.map",
+    "static/css/main.d8edfb56.chunk.css.map": "/champions/static/css/main.d8edfb56.chunk.css.map",
     "static/media/ball.jpg": "/champions/static/media/ball.d5049f2a.jpg",
     "static/media/logo.svg": "/champions/static/media/logo.5d5d9eef.svg",
     "static/media/index.css": "/champions/static/media/srim.c5958a0e.jpg"
