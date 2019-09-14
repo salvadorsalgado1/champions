@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/champions/static/css/main.9b6ecf50.chunk.css",
+    "main.js": "/champions/static/js/main.43ece7f7.chunk.js",
+    "main.js.map": "/champions/static/js/main.43ece7f7.chunk.js.map",
+    "runtime~main.js": "/champions/static/js/runtime~main.b1d7c7c7.js",
+    "runtime~main.js.map": "/champions/static/js/runtime~main.b1d7c7c7.js.map",
+    "static/js/2.dc957d51.chunk.js": "/champions/static/js/2.dc957d51.chunk.js",
+    "static/js/2.dc957d51.chunk.js.map": "/champions/static/js/2.dc957d51.chunk.js.map",
+    "index.html": "/champions/index.html",
+    "precache-manifest.5026875d3e74be05f137cadc6f0d8eb4.js": "/champions/precache-manifest.5026875d3e74be05f137cadc6f0d8eb4.js",
+    "service-worker.js": "/champions/service-worker.js",
+    "static/css/main.9b6ecf50.chunk.css.map": "/champions/static/css/main.9b6ecf50.chunk.css.map",
+    "static/media/ball.jpg": "/champions/static/media/ball.d5049f2a.jpg",
+    "static/media/logo.svg": "/champions/static/media/logo.5d5d9eef.svg",
+    "static/media/index.css": "/champions/static/media/srim.c5958a0e.jpg"
+  }
+}
