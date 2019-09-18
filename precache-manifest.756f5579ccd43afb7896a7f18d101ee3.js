@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8b68fbb025fd2d23711565ec0a75a758",
+    "revision": "9b62f0fa3d4334a4fa24a4dfc53dd1b2",
     "url": "/champions/index.html"
   },
   {
-    "revision": "6fc08b9b2b0619569c17",
-    "url": "/champions/static/css/main.27193d82.chunk.css"
+    "revision": "a539b0c1f50d25ccbad2",
+    "url": "/champions/static/css/main.b3c8fcf0.chunk.css"
   },
   {
-    "revision": "58c52a9754416891e4b4",
-    "url": "/champions/static/js/2.022b22f8.chunk.js"
+    "revision": "2d7bb1b928532130252e",
+    "url": "/champions/static/js/2.f84fc5d4.chunk.js"
   },
   {
-    "revision": "6fc08b9b2b0619569c17",
-    "url": "/champions/static/js/main.dfffb4e2.chunk.js"
+    "revision": "a539b0c1f50d25ccbad2",
+    "url": "/champions/static/js/main.896a8c31.chunk.js"
   },
   {
-    "revision": "16daf8d001981756d27f",
-    "url": "/champions/static/js/runtime~main.d61ed24e.js"
+    "revision": "3ff0e8b5a9a05ebc904b",
+    "url": "/champions/static/js/runtime~main.7d47390a.js"
   },
   {
     "revision": "d5049f2a7aee699c8536b98cd5d61868",
