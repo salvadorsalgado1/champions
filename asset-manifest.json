@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/champions/static/css/main.bfe8fb3c.chunk.css",
+    "main.css": "/champions/static/css/main.6ddf135e.chunk.css",
     "main.js": "/champions/static/js/main.6783ab1c.chunk.js",
     "main.js.map": "/champions/static/js/main.6783ab1c.chunk.js.map",
     "runtime~main.js": "/champions/static/js/runtime~main.7d47390a.js",
@@ -8,9 +8,9 @@
     "static/js/2.31788e9c.chunk.js": "/champions/static/js/2.31788e9c.chunk.js",
     "static/js/2.31788e9c.chunk.js.map": "/champions/static/js/2.31788e9c.chunk.js.map",
     "index.html": "/champions/index.html",
-    "precache-manifest.b5f94154493e719751f8147fe0a458f6.js": "/champions/precache-manifest.b5f94154493e719751f8147fe0a458f6.js",
+    "precache-manifest.6263f3f640b14d576a106e80bfe6f482.js": "/champions/precache-manifest.6263f3f640b14d576a106e80bfe6f482.js",
     "service-worker.js": "/champions/service-worker.js",
-    "static/css/main.bfe8fb3c.chunk.css.map": "/champions/static/css/main.bfe8fb3c.chunk.css.map",
+    "static/css/main.6ddf135e.chunk.css.map": "/champions/static/css/main.6ddf135e.chunk.css.map",
     "static/media/KobeBryant.mp4": "/champions/static/media/KobeBryant.7e66918f.mp4",
     "static/media/court3.jpg": "/champions/static/media/court3.53d16136.jpg",
     "static/media/lebron.jpg": "/champions/static/media/lebron.432db230.jpg",
