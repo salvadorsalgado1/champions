@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/champions/static/css/main.07379d74.chunk.css",
-    "main.js": "/champions/static/js/main.959b0f52.chunk.js",
-    "main.js.map": "/champions/static/js/main.959b0f52.chunk.js.map",
+    "main.css": "/champions/static/css/main.23853649.chunk.css",
+    "main.js": "/champions/static/js/main.b62c4771.chunk.js",
+    "main.js.map": "/champions/static/js/main.b62c4771.chunk.js.map",
     "runtime~main.js": "/champions/static/js/runtime~main.7d47390a.js",
     "runtime~main.js.map": "/champions/static/js/runtime~main.7d47390a.js.map",
     "static/js/2.31788e9c.chunk.js": "/champions/static/js/2.31788e9c.chunk.js",
     "static/js/2.31788e9c.chunk.js.map": "/champions/static/js/2.31788e9c.chunk.js.map",
     "index.html": "/champions/index.html",
-    "precache-manifest.24a8887235282075f58a300682dc72be.js": "/champions/precache-manifest.24a8887235282075f58a300682dc72be.js",
+    "precache-manifest.d6ee1e0f623072d6d757ac73a18c0d13.js": "/champions/precache-manifest.d6ee1e0f623072d6d757ac73a18c0d13.js",
     "service-worker.js": "/champions/service-worker.js",
-    "static/css/main.07379d74.chunk.css.map": "/champions/static/css/main.07379d74.chunk.css.map",
+    "static/css/main.23853649.chunk.css.map": "/champions/static/css/main.23853649.chunk.css.map",
     "static/media/KobeBryant.mp4": "/champions/static/media/KobeBryant.7e66918f.mp4",
-    "static/media/court3.jpg": "/champions/static/media/court3.53d16136.jpg",
+    "static/media/court3.jpg": "/champions/static/media/court3.ea5b905c.jpg",
     "static/media/lebron.jpg": "/champions/static/media/lebron.432db230.jpg",
-    "static/media/index.css": "/champions/static/media/srim.c5958a0e.jpg"
+    "static/media/index.css": "/champions/static/media/srim.692de042.jpg"
   }
 }
